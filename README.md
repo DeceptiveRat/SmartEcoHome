@@ -1,1 +1,1 @@
-# self-learning_trashcan
+# SmartEcoHome
